@@ -1,2 +1,15 @@
-# AutoKT
-🤗 AutoKT is an automatic open-source framework for  Knowledge Tracing (KT).
+# 🤗 AutoKT
+
+AutoKT: faster and easier training and deployments of SOTA/classical  knowledge tracing(KT) models
+
+
+## Installation
+
+
+## Quick start
+
+### train
+
+### deploy
+
+### using
